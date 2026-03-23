@@ -14,7 +14,7 @@ I specialize in architecting scalable data infrastructure on Google Cloud and ap
 ### Projects & Portfolio
 This repository is a monorepo containing my core work, categorized by discipline:
 
-* **[`/Data-Engineering`]((https://github.com/hendy3617/portfolio/tree/master/Project/Data-Engineering)):** End-to-end pipeline construction and automated data warehousing using GCP.
+* **[`/Data-Engineering`](https://github.com/hendy3617/portfolio/tree/master/Project/Data-Engineering):** End-to-end pipeline construction and automated data warehousing using GCP.
 * **[`/AI-and-ML`](https://github.com/hendy3617/portfolio/tree/master/Project/AI-and-ML):** Predictive modeling and practical machine learning applications deployed via containerized environments.
 * **[`/Data-Analysis`](https://github.com/hendy3617/portfolio/tree/master/Project/Data-Analysis):** Deep-dive statistical analyses extracting strategic narratives from complex datasets.
 
