@@ -4,12 +4,12 @@ This project analyzes employee turnover at Salifort Motors, a fictional automoti
 # Quick Start
 Clone this project and navigate to the project directory.
 
-Run `setup.bat` (Windows) or `setup.sh` (Unix) to create a virtual environment and install dependencies.
+Run [`setup.bat`](setup.bat) (Windows) or [`setup.sh`](setup.sh) (Unix) to create a virtual environment and install dependencies.
 
 # Structure
-- `data/`: Contains the employee turnover dataset.
-- `Analysis/`: Jupyter notebook with data analysis and predictive modeling.
-- `Deliverables/`: Contains the final report and presentation slides.
+- [`data/`](data/): Contains the employee turnover dataset.
+- [`Analysis/`](Analysis/): Jupyter notebook with data analysis and predictive modeling.
+- [`Deliverables/`](Deliverables/): Contains the final report and presentation slides.
 
 # Executive Summary
 
