@@ -1,5 +1,5 @@
 # Overview
-This project analyzes employee turnover at Salifort Motors, a fictional automotive company. The goal is to identify key factors contributing to turnover and build a predictive model to classify employees as likely to stay or leave. Information about the datasets can be found at [here](https://www.kaggle.com/code/hendypratama12321/employee-turnover-analysis-prediction)
+This project analyzes employee turnover at Salifort Motors, a fictional automotive company. The goal is to identify key factors contributing to turnover and build a predictive model to classify employees as likely to stay or leave. Information about the datasets can be found at [here](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction)
 
 # Quick Start
 Clone this project and navigate to the project directory.
