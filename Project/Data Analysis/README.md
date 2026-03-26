@@ -13,24 +13,13 @@ The work in this section focuses on:
 - Business insight generation
 - Reporting and recommendation writing
 
-## Tools and Technologies
-
-Common tools used in this track include:
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- SQL
-- Excel / Google Sheets
-- Power BI / Tableau
-- Basic statistics and probability
-
 ## Project Index
 
 Projects will be added here with links, summaries, and outcomes.
 
 | Project     | Description                          | Stack                 | Status      |
 | ----------- | ------------------------------------ | --------------------- | ----------- |
-| Coming Soon | Sales and customer behavior analysis | Python, SQL, Power BI | In Progress |
+| Salifort Motors | Employee turnover analysis and prediction | Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn | In Progress |
 
 ## Folder Structure
 
