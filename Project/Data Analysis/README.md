@@ -17,9 +17,10 @@ The work in this section focuses on:
 
 Projects will be added here with links, summaries, and outcomes.
 
-| Project     | Description                          | Stack                 | Status      |
+| Project Type     | Description                          | Stack                 | Status      |
 | ----------- | ------------------------------------ | --------------------- | ----------- |
-| Salifort Motors | Employee turnover analysis and prediction | Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn | In Progress |
+| Employee Turnover Analysis | Analysis and prediction of employee turnover | Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn | Completed |
+| Taxi Fare Analysis | Analysis and prediction of taxi fares | Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn | In Progress |
 
 ## Folder Structure
 

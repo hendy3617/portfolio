@@ -17,7 +17,7 @@ Based on the analysis of employee turnover at Salifort Motors, we identified sev
 
 <img src="asset/model_table_result.png" alt="Model Result Table" width="700" />
 
-Recommendations includes:
+**Recommendations includes**:
 * Cap the number of projects that employees can work on.
 * Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied. 
 * Either reward employees for working longer hours, or don't require them to do so. 
